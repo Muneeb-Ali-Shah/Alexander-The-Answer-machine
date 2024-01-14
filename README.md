@@ -5,4 +5,8 @@ Output when boss runs the program
 
 <img width="413" alt="Screenshot 2024-01-13 132107" src="https://github.com/Muneeb-Ali-Shah/Alexander-The-Answer-machine/assets/154548736/73f4702d-6c73-463a-9dd0-1bfb3853d322">
 
+Output when ordinary person runs the program
+
+<img width="419" alt="Screenshot 2024-01-13 133239" src="https://github.com/Muneeb-Ali-Shah/Alexander-The-Answer-machine/assets/154548736/110c2752-bd50-4ebf-b1c2-e525b8932510">
+
 
