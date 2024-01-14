@@ -7,6 +7,7 @@ The secret trick is that when you start typing something after a slash, the scre
 
 Output when boss runs the program
 
+<img width="449" alt="Screenshot 2024-01-14 201643" src="https://github.com/Muneeb-Ali-Shah/Alexander-The-Answer-machine/assets/154548736/8a7fc8dc-5076-4447-8295-08670c8cb8dd">
 
 
 Output when ordinary person runs the program
